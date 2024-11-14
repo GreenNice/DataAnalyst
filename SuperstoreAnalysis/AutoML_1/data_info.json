@@ -1,0 +1,27 @@
+{
+    "columns": [
+        "feature_1",
+        "feature_2",
+        "feature_3",
+        "feature_4",
+        "feature_5",
+        "feature_6"
+    ],
+    "rows": 6300,
+    "cols": 6,
+    "target_is_numeric": true,
+    "columns_info": {
+        "feature_1": [],
+        "feature_2": [],
+        "feature_3": [],
+        "feature_4": [],
+        "feature_5": [],
+        "feature_6": []
+    },
+    "target_info": [
+        "scale_log"
+    ],
+    "n_features": 6,
+    "is_sample_weighted": false,
+    "is_fairness_applied": false
+}
